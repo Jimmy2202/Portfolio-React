@@ -21,7 +21,7 @@ function Header() {
           </LinksHeader>
         </li>
         <li>
-          <a href="../CV.pdf" download aria-label="Download do currículo">
+          <a href="/CV.pdf" download aria-label="Download do currículo">
             <button className="bg-red-900 text-white p-2 rounded-lg shadow-xl hover:bg-red-400 hover:text-red-950 transition duration-500">
               Currículo
             </button>
