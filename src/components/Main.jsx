@@ -43,6 +43,14 @@ function Main() {
       link: "https://jimmy2202.github.io/Site-Esportivo/",
       icon: "down",
     },
+    {
+      id: 4,
+      title: "Folder",
+      description:
+        "Site feito com ReactJS e Tailwind, para buscas de filmes, séries e atores",
+      link: "https://jimmy2202.github.io/Search-Movies/",
+      icon: "down",
+    },
   ]);
 
   const showDetailsProjectAndIcon = (id) => {
